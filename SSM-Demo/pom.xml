@@ -17,7 +17,7 @@
     <ehcache.version>2.6.11</ehcache.version>
     <ehcache.web>2.0.4</ehcache.web>
     <ehcache.mybatis>1.0.0</ehcache.mybatis>
-    <hibernate.validator>5.2.4.Final</hibernate.validator>
+    <hibernate.validator>5.3.6.Final</hibernate.validator>
     <druid.version>1.0.25</druid.version>
     <fastjson.version>1.2.16</fastjson.version>
     <mysql.version>5.1.39</mysql.version>
